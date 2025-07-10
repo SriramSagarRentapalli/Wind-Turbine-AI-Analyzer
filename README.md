@@ -47,7 +47,7 @@ https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecas
 
 ### 1. 프로젝트 다운로드
 ```bash
-git clone https://github.com/your-username/turbine-ai-analyzer.git
+git clone https://github.com/imjeasung/turbine-ai-analyzer.git
 cd turbine-ai-analyzer
 ```
 
